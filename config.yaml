@@ -1,0 +1,8 @@
+dataset:
+  samples: 3000
+  features: 20
+  test_size: 0.2
+
+training:
+  epochs: 50
+  lr: 0.005

@@ -1,0 +1,15 @@
+# Ignore dataset
+*.csv
+*.zip
+*.txt
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore venv
+venv/
+
+# Ignore models
+*.pt
+*.pth
